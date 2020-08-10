@@ -23,6 +23,7 @@
               "src/assets"
             ],
             "styles": [
+              "node_modules/amexio-ng-extensions/styles/css/at-md-blue.css" ,
               "src/styles.css"
             ],
             "scripts": []
